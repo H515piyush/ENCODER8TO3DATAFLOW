@@ -48,7 +48,7 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-
+*/
 Developed by:Piyush kumar
 RegisterNumber:212223220075
 */
@@ -71,7 +71,7 @@ endmodule
 
 
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**;
+**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ```
 ![expo5 rtl output](https://github.com/H515piyush/ENCODER8TO3DATAFLOW/assets/147472999/c0a7c02b-5194-4ceb-a696-c8215464cd21)
 
